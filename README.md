@@ -38,7 +38,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/SamoraMachel" target="_blank">Author</a>
 </p>
 
 <br>
@@ -53,7 +53,7 @@ This is a simple project that rotates a given image passed through the terminal
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+The following tools were used in thimgtoolis project:
 
 - [Rust](https://www.rust-lang.org/)
 - [Cargo](https://crates.io/)
